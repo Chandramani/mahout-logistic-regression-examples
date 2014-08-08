@@ -1,4 +1,4 @@
 mahout-logistic-regression-examples
 ===================================
 
-Some sample examples of how to use mahout
+Some sample examples on how to use mahout logistic regression
